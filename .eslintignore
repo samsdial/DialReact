@@ -1,0 +1,6 @@
+**/.next/**
+**/node_modules/**
+**/next.config.js
+# **/server.js
+# TODO: figure out a way to lint this using flow instead of typescript
+# examples/todos-flow
